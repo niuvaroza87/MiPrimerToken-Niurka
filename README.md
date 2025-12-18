@@ -1,8 +1,8 @@
 ## Foundry
 
 # 📌 Dirección del contrato desplegado
-- **MiPrimerToken**: [`0xa4ed66f2e81722708a701aa6a704993910973b3`]
-- **Etherscan:** https://sepolia.etherscan.io/address/0xa4ed66f2e81722708a701aa6a704993910973b3
+- **MiPrimerToken**: [`0xa4ed66f2e81722708a701aa6a7049939109736b3`]
+- **Etherscan:** https://sepolia.etherscan.io/address/0xa4ed66f2e81722708a701aa6a7049939109736b3
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -79,8 +79,8 @@ Estudiante de Maestría. Mención Desarrollo de Software - UPTA, Aragua, Venezue
 
 ## 🚀 Contrato Desplegado
 - **Token:** MiPrimerToken (MPT)
-- **Dirección:** `0xa4ed66f2e81722708a701aa6a704993910973b3`
-- **Etherscan:** https://sepolia.etherscan.io/address/0xa4ed66f2e81722708a701aa6a704993910973b3
+- **Dirección:** `0xa4ed66f2e81722708a701aa6a7049939109736b3`
+- **Etherscan:** https://sepolia.etherscan.io/address/0xa4ed66f2e81722708a701aa6a7049939109736b3
 - **Red:** Sepolia Testnet
 - **Estado:** ✅ Verificado
 

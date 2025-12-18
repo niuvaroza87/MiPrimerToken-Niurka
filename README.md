@@ -1,7 +1,8 @@
 ## Foundry
 
 # 📌 Dirección del contrato desplegado
-- **MiPrimerToken**: [`0xa4eD66f2E81722708A701aa6a704993910973b3`](https://sepolia.etherscan.io/address/0xa4eD66f2E81722708A701aa6a704993910973b3)
+- **MiPrimerToken**: [`0xa4eD66f2E81722708A701aa6a704993910973b3`]
+- **Etherscan:** https://sepolia.etherscan.io/address/0xa4eD66f2E81722708A701aa6a704993910973b3
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -68,15 +69,18 @@ $ anvil --help
 $ cast --help
 ```
 ---
+---
+
 # 📌 Información del Proyecto
 
 ## 👩‍💻 Autora
 **Niurka Oropeza**  
-Estudiante de Maestría mención Desarrollo de Software - UPTA, Aragua, Venezuela
+Estudiante de Maestría. Mención Desarrollo de Software - UPTA, Aragua, Venezuela.
 
 ## 🚀 Contrato Desplegado
 - **Token:** MiPrimerToken (MPT)
-- **Dirección:** [`0xa4eD66f2E81722708A701aa6a704993910973b3`](https://sepolia.etherscan.io/address/0xa4eD66f2E81722708A701aa6a704993910973b3)
+- **Dirección:** `0xa4eD66f2E81722708A701aa6a704993910973b3`
+- **Etherscan:** https://sepolia.etherscan.io/address/0xa4eD66f2E81722708A701aa6a704993910973b3
 - **Red:** Sepolia Testnet
 - **Estado:** ✅ Verificado
 
